@@ -1,0 +1,11 @@
+class demo:
+    def add (self, a,b):
+        print(a+b)
+    def sub (self, a,b):
+        print(a-b)
+    def mul (self, a,b):
+        print(a*b)
+d1 = demo()
+d1.add(1,2)
+d1.sub(3,4)
+d1.mul(5,6)
